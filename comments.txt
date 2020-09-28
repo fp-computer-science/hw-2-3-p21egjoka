@@ -1,2 +1,4 @@
+General note, why do you have print("Hello World!") at the start of each file? Please remove that going forward.
+
 Question 2
 Where is the area calculation?
